@@ -92,3 +92,13 @@ body {
     margin: 42px 120px;
 }
 
+.menu-responsivo > button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+
+.Media query-desktop-first{
+@media (max-width: 850px)
+}
